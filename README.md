@@ -6,7 +6,7 @@ This Google Colab notebook contains Exploratory Data Analysis (EDA) code and res
 The primary goal of this project is to gain insights into the dataset, identify patterns, relationships, and potential outliers, and prepare the data for further analysis or modeling.
 
 ## Google Colab Notebook
-You can access the EDA notebook directly in Google Colab by clicking [here](link-to-your-Google-Colab-notebook).
+You can access the EDA notebook directly in Google Colab by clicking [here]((https://colab.research.google.com/drive/1LiqRZMmfS9JGWrLZvf9xDsNcOWso6O-O?usp=sharing)).
 
 ## EDA Tasks
 In the notebook, you'll find the following EDA tasks:
